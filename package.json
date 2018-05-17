@@ -6,7 +6,8 @@
   "private": true,
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "build": "node build.js"
   },
   "engines": {
     "node": "8.x",
