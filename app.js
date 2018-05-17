@@ -4,7 +4,7 @@ const {join} = require('path')
 const DEFAULT_PORT = 8080
 const PORT = process.env.PORT || DEFAULT_PORT
 const app = express()
-app.enable('trust proxy')
+app.set('trust proxy', true)
 
 async function run() {
   const winterLoveMiddleware = await winterLove({
