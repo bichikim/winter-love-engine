@@ -19,7 +19,6 @@
     "winter-love": "github:bichikim/winter-love#1.0.12"
   },
   "devDependencies": {
-
     "babel-eslint": "^8.2.3",
     "eslint": "^4.15.0",
     "vue-class-component": "latest",
