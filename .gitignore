@@ -10,7 +10,7 @@ selenium-debug.log
 coverage/
 
 # Nuxt build
-.nuxt
+# .nuxt
 /src/static/sw.js
 
 # Nuxt generate

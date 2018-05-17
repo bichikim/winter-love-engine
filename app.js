@@ -8,7 +8,7 @@ app.enable('trust proxy')
 
 async function run() {
   const winterLoveMiddleware = await winterLove({
-    build: true,
+    build: false,
     config: {
       dev: false,
       srcDir: join(__dirname, 'node_modules/winter-love/src'),
