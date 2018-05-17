@@ -203,12 +203,6 @@
   dependencies:
     "@types/babel-types" "*"
 
-"@vue/test-utils@^1.0.0-beta.15":
-  version "1.0.0-beta.16"
-  resolved "https://registry.yarnpkg.com/@vue/test-utils/-/test-utils-1.0.0-beta.16.tgz#dcf7a30304391422e382b5f97db6eb9508112906"
-  dependencies:
-    lodash "^4.17.4"
-
 abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
@@ -6752,11 +6746,10 @@ window-size@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/window-size/-/window-size-0.1.4.tgz#f8e1aa1ee5a53ec5bf151ffa09742a6ad7697876"
 
-"winter-love@github:bichikim/winter-love#1.0.10":
+"winter-love@github:bichikim/winter-love#1.0.12":
   version "1.0.1"
-  resolved "https://codeload.github.com/bichikim/winter-love/tar.gz/04502cc7d6c6d1dbcc3fc440d9d36f26c9a43809"
+  resolved "https://codeload.github.com/bichikim/winter-love/tar.gz/1c4f75f0c43f7c86c37bae6da1fd8cb35f730424"
   dependencies:
-    "@vue/test-utils" "^1.0.0-beta.15"
     animejs "^2.2.0"
     axios "^0.18.0"
     bowser "^1.9.3"
@@ -6770,9 +6763,7 @@ window-size@^0.1.4:
     nuxt latest
     three "^0.92.0"
     vue "^2.5.16"
-    vue-class-component latest
     vue-i18n latest
-    vue-property-decorator "^6.0.0"
     vuex "^3.0.1"
     vuex-class "^0.3.0"
     vuex-keg "^0.1.0"
